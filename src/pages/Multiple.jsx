@@ -12,7 +12,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-pink-100 p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://englishgang.com/wp-content/uploads/2020/06/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87-768x402.jpg" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -24,7 +24,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-blue-100 p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://png.pngtree.com/illustration/20190226/ourmid/pngtree-teacher-blackboard-chalk-mathematics-image_3967.jpg" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -36,7 +36,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-customLightBlue p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPv0K-9WaT33H8DsbBdCzaMKxFHCZx7UqFaiKJXnfiq8SsM6HwXAXxFf1SHbdY4C0El8&usqp=CAU" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -48,7 +48,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-green-100 p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlNJhpd9yBtO6-BBXfvq5-cetzxqxEpVOvL9PV-1lfc12QofvhbqcnmidiohXT8nOCllU&usqp=CAU" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -60,7 +60,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-customYellow p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://lh3.googleusercontent.com/proxy/5MbA3Jw3G94EvwoM3pSzNezUvdfleBkWhDInFE-Hgt9V_-TWLIOI4O4fwb9qd8ddxyfioCBhQQR75WXfHmMQxDm5tcIaup4gxHx0Ff5NVj3SQop9p6r2ANWKZmeDtvIf1sOoG0DPz2hwB8iBBzazXC9KEIuWItjsz1xy8QyRITI11g" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -72,7 +72,8 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-orange-100 p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbfyEvIx7tLLyflOHAiwM6IW0KkE0Hc7vKbiy5x2xuVFEZNsHsmBiV9bRlNrZ5SjYJV8&usqp=CAU
+encrypted-tbn0.gstatic.comFO6FOhttps://www.starfishlabz.com/cdn-cgi/image/width=1280,quality=60/media/443500" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -84,7 +85,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-customPink p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://www.starfishlabz.com/cdn-cgi/image/width=1280,quality=60/media/443500" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
@@ -96,7 +97,7 @@ const Multiple = () => {
         </div>
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 items-center bg-pink-100 p-8 rounded-lg m-16'>
             <div className="flex justify-center ">
-            <img src="https://images.squarespace-cdn.com/content/v1/600727b753a1396eba98dd48/0974cc26-ace6-41c2-bd49-8b1351998605/HG+1+Summer+2016_credit+HGSE.JPG" 
+            <img src="https://img.pikbest.com/origin/09/27/59/165pIkbEsTnT9.jpg!sw800" 
              alt="Howard Gardner" 
              className='rounded-full shadow-lg object-cover w-48  h-48' 
             />
