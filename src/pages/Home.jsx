@@ -12,8 +12,8 @@ const Home = () => {
           เด็กคนที่สองอาจมีปัญญาชนิดอื่นที่แกร่งกว่าก็ได้ ดังนั้นการเรียนรู้ที่ดีที่สุดอาจเกิดจากวัตถุดิบที่ให้ผ่านวิธีการที่ต่างกัน เขาอาจจะทำได้ดีในเรื่องที่ไม่ใช่คณิตศาสตร์หรืออาจจะกำลังดูผ่าน กระบวนการเรียนรู้การคูณที่ระดับพื้นฐานที่ลึกซึ้งกว่าซึ่งซ่อนศักยภาพ ที่เหนือชั้นกว่าปัญญาทางคณิตศาสตร์ไว้สูงกว่าคนที่แค่จำหลักคิดได้เท่านั้น</p>
         </div>
         <div className='inline-flex gap-6 p-12'>
-          <NavLink to="/"className='inline-flex justify-center items-center bg-sky-400 border-black border rounded-lg px-4 py-2 font-bold'>คุณไม่ได้โง่!</NavLink>
-          <NavLink to="/"className='inline-flex justify-center items-center '>
+          <NavLink to="/multiple"className='inline-flex justify-center items-center bg-sky-400 border-black border rounded-lg px-4 py-2 font-bold'>คุณไม่ได้โง่!</NavLink>
+          <NavLink to="/multiple"className='inline-flex justify-center items-center '>
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-copy"><path d="M2 16V4a2 2 0 0 1 2-2h11"/><path d="M22 18H11a2 2 0 1 0 0 4h10.5a.5.5 0 0 0 .5-.5v-15a.5.5 0 0 0-.5-.5H11a2 2 0 0 0-2 2v12"/><path d="M5 14H4a2 2 0 1 0 0 4h1"/></svg>
             <span className='ml-2'>ถ้าคุณอยากรู้ว่าคุณพิเศษแค่ไหน ลองดูในเว็บไซส์เรา</span>
           </NavLink>

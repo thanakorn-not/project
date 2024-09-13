@@ -7,6 +7,7 @@ import Andyou from './pages/Andyou';
 import Multiple from './pages/Multiple';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
+import NotFound from './pages/NotFound';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
           <Route path='/andyou' element={<Andyou/>} />
           <Route path='/login' element={<Login/>} />
           <Route path='/signup' element={<SignUp/>} />
+          <Route path='*' element={<NotFound/>} />
         </Routes>
       </Router>
     </>
